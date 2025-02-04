@@ -1,4 +1,5 @@
 # ipscaner
+IpScaner - это сканеруйт IP на локалном сети
 
     "FTP": 21,
     "SSH": 22,
